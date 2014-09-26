@@ -1,0 +1,14 @@
+{
+  "name": "MTL",
+  "version": "0.0.1",
+  "authors": [
+    "Mediatrends <mauro@mediatrends.cl>"
+  ],
+  "description": "Laboratorio de Estudios Digitales",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "wordpress": "~3.9.2",
+    "angularjs-bower": "*"
+  }
+}
