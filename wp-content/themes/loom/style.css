@@ -499,7 +499,7 @@ footer .post-list li em {
     font-weight: 800;
     text-transform: uppercase;
     color: #656565;
-    padding: 24px 14px 0 0;
+    /*padding: 24px 14px 0 0;*/
 }
 .navbar-brand span {
 	padding-top: 15px;
@@ -637,17 +637,17 @@ footer .post-list li em {
     box-shadow: 0 1px 0 rgba(0,0,0,0.11);
 }
 .navbar.basic.fixed .navbar-brand {
-    padding-top: 14px
+    /*padding-top: 14px*/
 }
 .navbar-brand img {
-	max-height: 55px;
+	max-height: 120px;
 }
 .navbar.basic.fixed .navbar-brand span {
 	padding-top: 5px;
 	display: block;
 }
 .navbar.basic.fixed .navbar-brand img {
-    height: 30px;
+    height: 60px;
     width: auto;
 }
 .navbar.basic.fixed .navbar-nav > li > a {
